@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="restaurant_name">Restaurant Name : </string>
+    <string name="cuisines">Cuisines Type : </string>
+</resources>
